@@ -1,0 +1,4 @@
+tensorflow# Use the version compatible with your downloaded model, usually a recent one
+streamlit
+numpy
+Pillow
